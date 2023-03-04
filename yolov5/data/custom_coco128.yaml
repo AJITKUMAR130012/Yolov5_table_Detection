@@ -9,9 +9,7 @@ test:  # test images (optional)
 
 # Classes
 names:
-  0: Merchant
-  1: Date
-  2: Total
+  0: Table
 
 # Download script/URL (optional)
 download: https://ultralytics.com/assets/coco128.zip
