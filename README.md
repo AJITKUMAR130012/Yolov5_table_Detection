@@ -7,11 +7,11 @@
 5.    Then go into the data folder, and **custom_coco128.yaml** and we have to make changes in that folder.
       ![custom_coco128](https://user-images.githubusercontent.com/60688738/222893182-583f657d-f5b6-4919-be3d-5f75c6a7adfc.png)
 6.    done!
-7.    Then run the running and testing script that is given in **.ipynb** file
+7.    Then run the running and testing script that is given in **.ipynb** file<br>
 
 **Input**
 
-![1_33](https://user-images.githubusercontent.com/60688738/222893582-0c4ce529-6e97-4292-ba2b-15c0c2b2f52e.jpg)
+![1_33](https://user-images.githubusercontent.com/60688738/222893582-0c4ce529-6e97-4292-ba2b-15c0c2b2f52e.jpg)<br>
 
 **Output**
 
